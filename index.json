@@ -1,0 +1,596 @@
+{
+  "fileCount": 59,
+  "files": [
+    {
+      "filename": "Toy_records_01-C3-01_wav.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_01-C3-02_wav.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_01-C3-03_wav.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_02-C_3-01_wav.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_02-C_3-02_wav.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_02-C_3-03_wav.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_03-D3-01_wav.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_03-D3-02_wav.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_03-D3-03_wav.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_04-D_3-01_wav.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_04-D_3-02_wav.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_04-D_3-03_wav.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_06-E3-01_wav.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_06-E3-02_wav.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_06-E3-03_wav.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_07-F3-01_wav.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_07-F3-02_wav.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_07-F3-03_wav.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_09-F_3-01_wav.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_09-F_3-02_wav.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_09-F_3-03_wav.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_10-G3-01_wav.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_10-G3-02_wav.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_10-G3-03_wav.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_10-G3-04_wav.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 4
+    },
+    {
+      "filename": "Toy_records_12-G_3-01_wav.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_12-G_3-02_wav.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_12-G_3-03_wav.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_13-A3-01_wav.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_13-A3-02_wav.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_13-A3-03_wav.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_15-A_3-01_wav.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_15-A_3-02_wav.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_15-A_3-03_wav.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_17-B3-01_wav.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_17-B3-02_wav.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_17-B3-03_wav.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_18-C4-01_wav.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_18-C4-02_wav.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_18-C4-03_wav.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_19-C_4-01_wav.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_19-C_4-02_wav.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_19-C_4-03_wav.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_20-D4-01_wav.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_20-D4-02_wav.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_20-D4-03_wav.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_20-D4-04_wav.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 4
+    },
+    {
+      "filename": "Toy_records_21-D_4-01_wav.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_21-D_4-02_wav.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_21-D_4-03_wav.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_21-D_4-04_wav.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 4
+    },
+    {
+      "filename": "Toy_records_22-E4-01_wav.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_22-E4-02_wav.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_22-E4-03_wav.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_22-E4-04_wav.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 4
+    },
+    {
+      "filename": "Toy_records_23-F4-01_wav.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Toy_records_23-F4-02_wav.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 2
+    },
+    {
+      "filename": "Toy_records_23-F4-03_wav.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 3
+    },
+    {
+      "filename": "Toy_records_23-F4-04_wav.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 4
+    }
+  ],
+  "generatedAt": "2026-07-23T20:30:32Z"
+}
